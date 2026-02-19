@@ -16,6 +16,23 @@ An AI-powered classroom monitoring system that detects student attention using A
 - Azure Custom Vision
 - CSV-based data storage
 
+---
+
+## 📸 Application Screenshots
+
+### Class Attention Dashboard
+![Class Attention](images/class_attention.png)
+
+### Student Profile Form
+![Student Profile](images/student_profile.png)
+
+### Student Profile Saved
+![Profile Saved](images/student_profile_saved.png)
+
+### Attendance Marked
+![Attendance](images/mark_attendance.png)
+
+
 ## How to Run
 ```bash
 pip install streamlit opencv-python requests
