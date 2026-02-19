@@ -1,4 +1,6 @@
-# Classroom Attention System 🎓📊
+# 🎯 ClassVision AI
+AI-Powered Classroom Attention & Study Monitoring System
+
 
 classroom_watch_AI
 ## ⏱️ Study-Time Monitoring (Live Camera Mode)
