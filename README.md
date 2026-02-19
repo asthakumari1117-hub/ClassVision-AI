@@ -1,7 +1,6 @@
 # Classroom Attention System 🎓📊
 
-
-                         ##classroom_watch_AI
+classroom_watch_AI
 ## ⏱️ Study-Time Monitoring (Live Camera Mode)
 
 ClassWatch AI includes a study-purpose live camera feature to monitor
@@ -26,7 +25,7 @@ An AI-powered classroom monitoring system that detects student attention using A
 **Implementation File:** `classroom_watch_AI.py
 
 
-                       ## APP
+   APP
 ## Features
 - 📷 Real-time camera capture
 - 🧠 Attention detection (Focused / Looking Away / Sleeping)
